@@ -42,7 +42,10 @@ learn-python-notes/
         ├── 001_hello_world.py
         ├── 002_if_else.py
         ├── 003_arithmetic_operators.py
-        └── ...
+        ├── 004_python_division.py
+        ├── 005_loops.py
+        ├── 006_write_a_function.py
+        └── 007_print_function.py
 ```
 
 ---
@@ -65,7 +68,6 @@ learn-python-notes/
 | 12  | `12_modules_and_misc.py`   | Modules, datetime, math, random, map/filter/reduce             |
 
 ---
-
 ## 🏆 HackerRank Python Problem Solving
 
 This section contains my solutions to HackerRank Python problems as part of my problem-solving journey.
@@ -75,6 +77,10 @@ This section contains my solutions to HackerRank Python problems as part of my p
 | 001 | `001_hello_world.py`          | Say "Hello, World!" With Python |
 | 002 | `002_if_else.py`              | Python If-Else                  |
 | 003 | `003_arithmetic_operators.py` | Arithmetic Operators            |
+| 004 | `004_python_division.py`      | Python: Division                |
+| 005 | `005_loops.py`                | Loops                           |
+| 006 | `006_write_a_function.py`     | Write a Function                |
+| 007 | `007_print_function.py`       | Print Function                  |
 | ... | ...                           | More problems coming soon       |
 
 ---
