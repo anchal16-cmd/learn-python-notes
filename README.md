@@ -34,7 +34,7 @@ learn-python-notes/
 │
 ├── Projects/
 │   ├── calculator.py
-│   ├── quiz_game.py
+│   ├── qr code.py
 │   └── ...
 │
 └── HackerRank/
